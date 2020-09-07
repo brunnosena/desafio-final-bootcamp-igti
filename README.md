@@ -8,10 +8,6 @@
   </a>
 </p>
 
-![App Screenshot](https://raw.githubusercontent.com/brunnosena/desafio-final-bootcamp-igti/master/screenshot.png)
-
-
-
 ## :rocket: Technologies
 
 - ⚛️ [**React Js**][react]
